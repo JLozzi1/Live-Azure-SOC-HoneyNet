@@ -37,7 +37,7 @@ AFTER Metrics: Network Security Groups were hardened by blocking ALL traffic wit
 ![MySQL Auth Failures](https://i.imgur.com/rk49fP4.png)<br>
 ![Windows RDP/SMB Auth Failures](https://i.imgur.com/vcbX86e.png)<br>
 
-## Metrics Before Hardening / Security Controls
+## Metrics After Hardening / Security Controls
 
 The information below displays the metrics recorded in our insecure environment over a 24-hour period:
 
